@@ -1,0 +1,6 @@
+.DS_Store
+.build/
+ZaiTokenWidget.app/
+.swiftpm/
+*.xcodeproj
+DerivedData/
